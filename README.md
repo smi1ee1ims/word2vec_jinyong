@@ -5,9 +5,13 @@
 ## 项目结构
 
 ├── novels/                  # 金庸小说文本文件
+
 ├── characters_names_full.txt     # 人物名称列表
+
 ├── main.py                  # 主程序
+
 ├── word2vec.ipynb   # Jupyter Notebook版本
+
 └── README.md                # 项目说明文档
 
 其他文件未直接使用，仅存档备用
